@@ -1,6 +1,6 @@
 # Beagle DataBinding extensions
 
-This project is an example of a (Beagle)[https://github.com/ZupIT/beagle] Databinding adapter. This has the purpose of decrease the learning curve of Beagle declarative views, offer all support for Beagle developing that Android Studio has for DataBinding such layout previews, etc.
+This project is an example of a [Beagle](https://github.com/ZupIT/beagle) Databinding adapter. This has the purpose of decrease the learning curve of Beagle declarative views, offer all support for Beagle developing that Android Studio has for DataBinding such layout previews, etc.
 
 # Adapter
 
