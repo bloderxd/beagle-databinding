@@ -63,3 +63,7 @@ val beagleView = binding.toBeagle()
 **/
 ...
 ```
+
+# Next Steps
+
+For a next step I see the creation of native Beagle custom views to use in xml files to bind `Screen` types easier, and expand this interpreter to support Compose in future.
